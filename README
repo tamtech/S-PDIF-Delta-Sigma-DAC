@@ -1,0 +1,13 @@
+--------------------------------------------------------------------------------------------------------------
+-	Thomas Parry (yrrapt@gmail.com)
+-	tamtech.wordpress.com
+-	10-02-2011
+--------------------------------------------------------------------------------------------------------------
+
+
+S/PDIF Input Delta-Sigma DAC written in VHDL
+Designed for and implemented for the Papilio One dev board
+
+---  Current Modules
+
+- S/PDIF decoder		- 		spdif_receiver.vhd
